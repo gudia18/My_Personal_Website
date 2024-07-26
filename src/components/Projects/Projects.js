@@ -28,7 +28,7 @@ function Projects() {
               title="Guideme"
               description="GuideMe is designed to provide college students with a platform to access valuable resources such as internships, placements, learning materials, hackathons,  and interview preparation notes. The goal is to the process of finding relevant opportunities and resources that support students' academic and career growth.."
               ghLink="https://github.com/gudia18/GuideMe"
-              demoLink="https://guideme-plum.vercel.app/"
+              demoLink="https://guideme-p.vercel.app/"
             />
           </Col>
 
